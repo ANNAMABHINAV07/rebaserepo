@@ -4,16 +4,14 @@ Definition
 Gas composition
 {X,Y,Z}  =  {MH, MHe, MΣZ} / Mtot
 MMM for a fully ionized gas (from here)
-1/µ  ~  2X + 3Y/4 + Z/2
-<<<<<<< HEAD
-=======
+1/µ  ~  2X + 3Y/4 + Z/
 µ     ~  4 / (6X + Y + 2)=z
 >>>>>>> 14c377099ebab71721c2834b643e21dfd15cfe78
 Fully ionized primordial gas
 µ  =  1 / (2×0.75 + (3/4)×0.25) = 0.59
 Fully ionized enriched gas
 μ  =  1 / (2×0.70 + (3/4)×0.28 + 0.02/2) = 0.62
-MMM for a neutral gas (eq. 10.19 in Carroll & Ostlie 1996, who use µn instead of µ0)
+MMM for a neutral gas 
 1/µ0  =  X + Y/4 + ⟨1/A⟩nZ
 ⟨1/A⟩n is the weighted average of all elements in the gas heavier than helium.
 For Solar abundances, ⟨1/An⟩ ≈ 1/15.5.
