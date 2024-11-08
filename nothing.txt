@@ -1,0 +1,15 @@
+Indicative of low T (< 1e3), due to its low ionization potential
+
+Zi, Si:
+Do not deplete much, and are thus good for determining metallicity
+
+C III, C IV, and Si IV:
+Can be used to study the moderately-ionized gas phase
+
+Si II, C II, Mg I, Mg II, Fe II, and Na I:
+Can be used to study the neutral gas phase
+
+Si II* and C II* form when electrons excited by absorption in the Si II λλ1190,1193, λ1260, and C II λ1334 transitions subsequently decay to the excited ground state (followed by a fine structure decay transition to the ground state).
+
+Mg II, Mg I, Fe II, Al III
+Intermediate?
