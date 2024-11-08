@@ -5,6 +5,8 @@ Gas composition
 {X,Y,Z}  =  {MH, MHe, MΣZ} / Mtot
 MMM for a fully ionized gas (from here)
 1/µ  ~  2X + 3Y/4 + Z/2
+µ     ~  4 / (6X + Y + 2)=z
+>>>>>>> 14c377099ebab71721c2834b643e21dfd15cfe78
 Fully ionized primordial gas
 µ  =  1 / (2×0.75 + (3/4)×0.25) = 0.59
 Fully ionized enriched gas
